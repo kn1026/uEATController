@@ -1,0 +1,6 @@
+framework module Pods_uEATController {
+  umbrella header "Pods-uEATController-umbrella.h"
+
+  export *
+  module * { export * }
+}
